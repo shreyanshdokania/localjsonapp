@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Shreyansh Dokania",
+        "age": "19",
+        "height": "5.6",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "name": "Shubh Pachauri",
+        "age": "19",
+        "height": "6.2",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "name": "Prince Kumar",
+        "age": "19",
+        "height": "5.9",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "name": "Brijesh Saini",
+        "age": "19",
+        "height": "6.0",
+        "gender": "male",
+        "hair_color": "black"
+    }
+]
